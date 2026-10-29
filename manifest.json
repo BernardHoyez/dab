@@ -1,0 +1,17 @@
+{
+  "name": "dab — Distributeurs de billets",
+  "short_name": "dab",
+  "description": "Trouve les distributeurs automatiques de billets dans un rayon de 500 m.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b5cab",
+  "theme_color": "#0b5cab",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
